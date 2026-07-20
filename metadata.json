@@ -1,0 +1,6 @@
+{
+  "name": "Giro - Gestão Inteligente de Veículos",
+  "description": "Assistente inteligente para controle total de veículos, manutenção, abastecimento e gastos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
